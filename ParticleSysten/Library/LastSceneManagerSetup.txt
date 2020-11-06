@@ -1,5 +1,1 @@
-sceneSetups:
-- path: "Assets/tex/scens/04_\u9583\u96FB.unity"
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
+sceneSetups: []
